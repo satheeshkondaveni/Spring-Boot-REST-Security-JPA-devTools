@@ -27,11 +27,16 @@ public class AnswerController {
     @PostMapping("/questions/{questionId}/answers")
     public Answer addAnswer(@PathVariable Long questionId,
                             @Valid @RequestBody Answer answer) {
+    	
+    	
         return questionRepository.findById(questionId)
                 .map(question -> {
                     answer.setQuestion(question);
                     return answerRepository.save(answer);
                 }).orElseThrow(() -> new ResourceNotFoundException("Question not found with id " + questionId));
+        
+        
+        
     }
 
     @PutMapping("/questions/{questionId}/answers/{answerId}")

@@ -1,3 +1,22 @@
 https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/
 https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github
 https://stackoverflow.com/questions/12258399/how-to-create-folder-in-github-repository
+
+Digest Algorithm with spring Security rest:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://javadeveloperzone.com/spring-boot/spring-security-digest-authentication-example/
+http://websystique.com/spring-security/spring-security-4-role-based-login-example/
+https://docs.spring.io/spring-security/site/docs/5.0.0.RELEASE/reference/htmlsingle/
+https://docs.spring.io/spring-security/site/docs/5.0.0.RELEASE/reference/htmlsingle/#jc-authentication
+https://github.com/sumit-samaddar/spring-rest-with-digest-authentication
+
+WADL file Example:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+http://www.springboottutorial.com/spring-boot-swagger-documentation-for-rest-services
+https://stackoverflow.com/questions/23271597/how-to-generate-wadl-for-spring-rest-service
+https://www.nurkiewicz.com/2012/02/automatically-generating-wadl-in-spring.html
+
+
